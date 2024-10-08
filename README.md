@@ -6,6 +6,3 @@ Frontend разработчик с увлечением к веб-техноло
 - Фреймворки: React
 - Инструменты: Git, Webpack
 
-## Контакты
-- Telegram: [@AleksandrAzaza]
-- VK: [ vk.com/f_u_c_k___you]
