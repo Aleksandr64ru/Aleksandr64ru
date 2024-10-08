@@ -7,6 +7,6 @@ Frontend разработчик с увлечением к веб-техноло
 - Инструменты: Git, Webpack
 
 ## 📫 Контакты
-[Telegram](https://example.com)
-[VK](https://linkedin.com/in/ваш_профиль)
-[Мой Email](mailto:q400w@mail.ru)
+- [Telegram](https://example.com)
+- [VK](https://linkedin.com/in/ваш_профиль)
+- [Мой Email](mailto:q400w@mail.ru)
