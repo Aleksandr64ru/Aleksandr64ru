@@ -2,7 +2,7 @@
 Frontend разработчик с увлечением к веб-технологиям 🌐
 
 ## 🛠️ Навыки
-- Языки: JavaScript, HTML, CSS
+- Языки: JavaScript, TypeScript, HTML, CSS
 - Фреймворки: React
 - Инструменты: Git, Webpack
 
